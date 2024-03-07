@@ -1,0 +1,24 @@
+{
+  "dependencies": {
+    "ethers": "^6.11.1",
+    "seacommon": "^1.0.1"
+  },
+  "name": "seahelper",
+  "version": "1.0.0",
+  "description": "my helper class",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sea2016new/seahelper.git"
+  },
+  "author": "huang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sea2016new/seahelper/issues"
+  },
+  "homepage": "https://github.com/sea2016new/seahelper#readme"
+}
